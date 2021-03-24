@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/iconfinder_volume-24_103167.png</file>
+    <file>icons/Breeze.png</file>
+    <file>icons/DarkB.png</file>
+    <file>icons/DarkO.png</file>
+    <file>icons/Defult.png</file>
+    <file>icons/MacOs.png</file>
+    <file>icons/iconfinder_icon-ios7-search-strong_211817.png</file>
+    <file>icons/iconfinder_download_arrow_save_downloading_interface_3994354.png</file>
+    <file>icons/iconfinder_icon-home_211676.png</file>
+    <file>icons/010_081_document_download_file-256.png</file>
+    <file>icons/649488478459802787.png</file>
+    <file>icons/iconfinder_1_Youtube_colored_svg_5296521.png</file>
+    <file>icons/iconfinder_download2_172461.png</file>
+    <file>icons/iconfinder_Download-Computer_379337.ico</file>
+    <file>icons/iconfinder_settings-gear-setup-adjust-control_2931152.png</file>
+    <file>icons/iconfinder_youtube-social-network-brand-logo_1820429.png</file>
+    <file>icons/themes-512 (2).png</file>
+    <file>icons/themes-512.png</file>
+  </qresource>
+</RCC>
